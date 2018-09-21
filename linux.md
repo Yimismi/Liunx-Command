@@ -550,6 +550,45 @@ END {
 }
 ```
 
-	
+#### sed命令
 
+#### tr命令
+
+### 网络相关
+
+#### ifconfig命令
+
+#### ping命令
+
+#### curl命令
+
+#### wget命令
+
+#### tracepath命令
+
+#### traceroute命令
+
+#### mtr命令
+
+#### host命令
+
+#### whois命令
+
+#### dhclient命令
+
+#### netstat命令
+
+### 进程相关
+
+#### ps命令
+
+#### kill命令
+
+###资源监控
+
+#### lsof命令
+
+#### free命令
+
+#### top命令
 
