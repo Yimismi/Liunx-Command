@@ -60,9 +60,9 @@
 
 [wget命令](#wget命令)
 
-[tracepath、tracepath6命令](#tracepath、tracepath6命令)
+[tracepath,tracepath6命令](#tracepath,tracepath6命令)
 
-[traceroute、tracepath6命令](#traceroute、tracepath6命令)
+[traceroute,tracepath6命令](#traceroute,tracepath6命令)
 
 [mtr命令](#mtr命令)
 
