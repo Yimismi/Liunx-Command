@@ -226,9 +226,11 @@ eg：``mkdir hello/world`` 在**hello**目录下创建**world**目录。**hello*
 ##### 常用操作
 
 - 创建tar文件
+
 ``tar -cvf a.tar filelist``
 
 - 解压tar文件
+
 ``tar -xvf a.tar``
 ``tar -xvf a.tar filelist`` 提取a.tar中的filelist
 ``tar -uvf a.tar filelist`` 更新a.tar中的filelist
